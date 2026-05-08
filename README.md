@@ -1,5 +1,5 @@
 <!--
-   gustavo vladimir rojo huapaya · @orfeo7u7
+   Gustavo Vladimir Rojo Huapaya · @orfeo7u7
    late-night developer · backend · ai · lo-fi tooling
    note: the snake animation requires the Platane/snk GitHub Action
          see → https://github.com/Platane/snk
@@ -23,17 +23,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=1" width="100%" />
 
-## ` ~/whoami `
-
-```yaml
-name       : Gustavo Vladimir Rojo Huapaya
-alias      : Orfeo7u7
-role       : Systems Engineering Student · Backend & AI Developer
-location   : Perú · GMT-5
-focus      : [ backend, web, automation, AI, deployment, architecture ]
-philosophy : "ship small · ship calmly · stay curious"
-status     : crafting experiments while the city sleeps
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=414868&height=1" width="100%" />
 
